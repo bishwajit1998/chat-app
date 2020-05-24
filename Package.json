@@ -27,12 +27,6 @@
     "db": {
       "url": "mongodb://localhost:27017/chat"
     }
-  },
-  "bugs": {
-    "url": "https://github.com/sudheeshshetty/Chat/issues"
-  },
-  "homepage": "https://github.com/sudheeshshetty/Chat#readme",
-  "keywords": [
-    "chat_for_local_usage"
-  ]
+  }
+  
 }
